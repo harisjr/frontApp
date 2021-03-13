@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontApp"
+    }
+  },
+  "defaultProject": "frontApp",
+  "cli": {
+    "analytics": "543c9354-c55f-4c66-b837-a25f8021c21d"
+  }
 }
